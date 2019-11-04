@@ -19,7 +19,10 @@
 %---------------------
 % if don't know the meaning of 'xz-y', just take a look at  
 %   the scanning machine's software!
-
+%---------------------
+% if you want to mute some points when scanning, please note that
+% 2 3 1 0, the last number '0' means scanning the points(2,3,1)
+% 2 3 1 1, the last number '1' means do not scanning the points(2,3,1)
 
 %the length is 350 / 2 =175
 %the start point is (25,25)
